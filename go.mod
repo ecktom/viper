@@ -1,4 +1,4 @@
-module github.com/ory/viper
+module github.com/ecktom/viper
 
 require (
 	github.com/armon/consul-api v0.0.0-20180202201655-eb2c6b5be1b6 // indirect
@@ -43,3 +43,5 @@ require (
 	google.golang.org/grpc v1.21.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+go 1.13
